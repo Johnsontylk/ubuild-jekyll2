@@ -33,16 +33,6 @@ page_sections:
     button_text: Download
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
   media_alignment: Right
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
@@ -75,6 +65,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 2-column-media-element
+  block: media-2
+- template: simple-header
+  block: header-3
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: <img src="/uploads/2018/06/21/blocks-split.png">
 
 ---
 foo bar
