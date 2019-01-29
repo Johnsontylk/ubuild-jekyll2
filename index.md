@@ -3,6 +3,10 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: <img src="/uploads/2018/06/21/blocks-split.png">
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -69,10 +73,6 @@ page_sections:
   block: media-2
 - template: simple-header
   block: header-3
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: <img src="/uploads/2018/06/21/blocks-split.png">
 
 ---
 foo bar
