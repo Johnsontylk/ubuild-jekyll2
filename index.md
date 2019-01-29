@@ -7,6 +7,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   content: <img src="/uploads/2018/06/21/blocks-split.png">
+  headline: Test
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
